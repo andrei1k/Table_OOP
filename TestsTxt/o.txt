@@ -1,0 +1,12 @@
+=     2 + R2C2
+
++1.2
+
+"\"\\\\""
+
+"\"\\\""
+
+12345.5432
+
+12345.5632
+ g++ main.cpp StringWork/*.cpp Cells/*.cpp MyProgram/*.cpp Table/*.cpp
